@@ -3,7 +3,7 @@ module.exports = {
   // catalogUrl:
   //   "https://s3.waw3-1.cloudferro.com/mdl-metadata/metadata/catalog.stac.json", // MDS
   catalogUrl:
-    "https://arco-proxy-0000.copernicus-climate.eu/cadl-metadata/metadata/catalog.stac.json", // CADL
+    "https://arco.datastores.ecmwf.int/cadl-metadata/metadata/catalog.stac.json", // CADL
   catalogTitle: "CADL STAC Browser",
   catalogImage: null,
   allowExternalAccess: false, // Must be true if catalogUrl is not given
